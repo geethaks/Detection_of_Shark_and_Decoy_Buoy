@@ -1,1 +1,4 @@
-# Detection_of_Shark_and_Decoy_Buoy
+# Detection of Shark and Decoy Buoy
+
+Humans and wildlife negatively interact when there is a loss of property, livelihood, or even life; this interaction is referred to as a human-wildlife conflict. Defensive and retaliatory killing may lead to the eventual extinction of these species. One such conflict occasionally occurs near coastal areas between cold-blooded saline water creatures like sharks and people. This work presents a proof of concept for developing a buoy that can detect cold-blooded predators and serve as a decoy system to deter human attacks. The decoy system is based on numerous biological facts and information about shark species. The model can detect up to 14 species of sharks and saline crocodiles using pattern recognition with a collective accuracy of 92%. The designed buoy is a novel approach to prevent human attacks near the coast with its decoy system based on the factual behavior of the predatory shark species and crocodiles.
+
